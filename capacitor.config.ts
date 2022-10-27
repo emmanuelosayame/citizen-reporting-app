@@ -1,10 +1,10 @@
-import { CapacitorConfig } from '@capacitor/cli';
+import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'tabs-react',
-  webDir: 'build',
-  bundledWebRuntime: false
+  appId: "com.bincom.citizen_reporting_app",
+  appName: "citizen-reporting-app",
+  webDir: "build",
+  bundledWebRuntime: false,
 };
 
 export default config;

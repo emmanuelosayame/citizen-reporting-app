@@ -1,0 +1,14 @@
+.rounded-lg {
+  border-radius: 20px;
+}
+.p-b {
+  padding-bottom: 20px;
+}
+
+.m-b {
+  margin-bottom: 20px;
+}
+
+.header {
+  font-weight: 600;
+}
